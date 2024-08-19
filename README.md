@@ -1,1 +1,1 @@
-# Data-Analyst-Skillpath-Zero-to-Hero-in-Excel-SQL-Python
+Gained knowledge in Excel data extraction and advanced functions, SQL commands and functions, basic statistics, and machine learning model training, including handling outliers from the Udemy platform.
